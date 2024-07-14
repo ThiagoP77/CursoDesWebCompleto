@@ -1,0 +1,1 @@
+php -S localhost:(numero_da_porta)

@@ -1,0 +1,8 @@
+Bootstrap: https://getbootstrap.com/
+Media Queries 1: https://mediaqueri.es/
+Media Queries - BootSrap: https://getbootstrap.com/docs/4.0/layout/overview/
+Nav: https://getbootstrap.com/docs/4.1/components/navs/
+Navbar: https://getbootstrap.com/docs/4.1/components/navbar/
+Icones do Bootstrap: https://getbootstrap.com/docs/4.0/extend/icons/
+Font Awesome: https://fontawesome.com/icons?d=gallery&m=free
+Iconic: https://useiconic.com/open#icons

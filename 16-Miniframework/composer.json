@@ -1,0 +1,18 @@
+{
+    "name": "thiago/mini_framework",
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "Thiago Piffer Lauro",
+            "email": "thiagopifferlauro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/", 
+            "MF\\": "vendor/MF/"
+        }
+    }
+}
